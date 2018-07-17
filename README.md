@@ -8,4 +8,4 @@ and ww.alphavantage.co key to stock_key.
 # Running
 Maven project, main is Main.java
 
-[screenshot]: screenshot.png "Screen Shot"
+![screenshot](https://github.com/secondsun/luis-stock-bot/blob/master/screenshot.png?raw=true "Screen Shot")
